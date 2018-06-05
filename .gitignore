@@ -13,4 +13,4 @@
 .mvn/
 master*.log
 *pid*.log
-*.sh
+
