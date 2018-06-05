@@ -1,0 +1,16 @@
+.idea/
+**/target/
+/pictures/**
+/logs/*
+**/.DS_Store
+.classpath
+.project
+.settings
+**/*.pyc
+.pydevproject
+*.pyc
+*.iml
+.mvn/
+master*.log
+*pid*.log
+*.sh
